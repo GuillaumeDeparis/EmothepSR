@@ -5,6 +5,6 @@
 ```
 # Install PIL
 ```bash
-cd Scripts
-pip install Pillow
+>cd Scripts
+>pip install Pillow
 ```
